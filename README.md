@@ -9,3 +9,7 @@ A written document that includes your reflections to the questions below. Submit
 3. What are expressions in Azure Data Factory? How are they helpful when designing a data pipeline (please explain with an example)?
 4. What are the pros and cons of parametrizing a dataset in Azure Data Factory pipeline’s activity?
 5. What are the different supported file formats and compression codecs in Azure Data Factory? When will you use a Parquet file over an ORC file? Why would you choose an AVRO file format over a Parquet file format?
+
+![alt text](https://github.com/conner-mcnicholas/AzureEndToEndETL/blob/main/Corrupted_Data_Chart.png?raw=true)
+![alt text](https://github.com/conner-mcnicholas/AzureEndToEndETL/blob/main/fixed_corrupted_file.png?raw=true)
+![alt text](https://github.com/conner-mcnicholas/AzureEndToEndETL/blob/main/sparkui.png?raw=true)
